@@ -1,0 +1,1 @@
+# smart-activity-app-api
